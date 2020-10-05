@@ -12,5 +12,5 @@ def create_profile(sender, instance, created, **kwargs):
 def save_profile(sender, instance, **kwargs): 
     try:
         instance.profile.save()
-    except ObjectDoesNotExist:
+    except (ObjectDoesNotExist, NameError) as error:
         Profile.objects.create(user=instance)
