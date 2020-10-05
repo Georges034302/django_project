@@ -1,0 +1,14 @@
+Code Snipets:
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog/snippets
+
+Bootstrap Template:
+https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
+
+Django-series Code:
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog
+
+Django-series YouTube:
+https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+
+Author Website:
+https://coreyms.com/
